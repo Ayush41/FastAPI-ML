@@ -11,3 +11,11 @@ This repository is perfect for anyone looking to learn how to build **modern, hi
 **FastAPI** is a modern, fast (high-performance) web framework for building APIs with **Python 3.7+** based on **standard Python type hints**.  
 
 It’s one of the fastest frameworks available, built on top of **Starlette** (for web parts) and **Pydantic** (for data validation).
+
+
+## ⚙️ Installation & Setup
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/your-username/FastAPI-ML.git
+cd FastAPI-ML
